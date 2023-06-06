@@ -46,6 +46,9 @@ Functionality:
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/> 
   </a>
+  <a href="https://sequelize.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="70" height="70"/> 
+  </a>
   </p>
   <p align="center"> 
   </p>
