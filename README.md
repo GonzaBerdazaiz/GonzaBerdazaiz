@@ -1,6 +1,7 @@
 ## Hi! I´m Gonzalo
 I'm a Full Stack Developer student and an Industrial Engineer
 
+<br />
 
 ## Projects:
 #### Pokemon App (Single Page Application)
