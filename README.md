@@ -1,7 +1,7 @@
 # Hi! I´m Gonzalo
 I'm a Full Stack Developer student and an Industrial Engineer
 
-# Projects:
+## Projects:
 ### Pokemon App (Single Page Application)
 I developed a Single Page Application (SPA) called Pokemon App. The project utilized React and Redux for the Front-End, while the Back-End was built with Express, Node.js, and PostgreSQL. All the styling was implemented using CSS.
 
@@ -13,7 +13,7 @@ Functionality:
 * **Pokemon Detail**: Displayed detailed information about each Pokemon. ✔️
 * **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
 
-# Language and tools:
+## Language and tools:
 *JavaScript
 *React
 *Redux
@@ -23,6 +23,6 @@ Functionality:
 *Express
 *Sequelize
 
-# Contact me:
+## Contact me:
 * gonzaloberdazaiz@gmail.com 📧
 * +549 2213642526 📲
