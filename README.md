@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi! I´m Gonzalo
+I'm a Full Stack Developer student and an Industrial Engineer
 
-<!--
-**GonzaBerdazaiz/GonzaBerdazaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects:
+### Pokemon App (Single Page Application)
+I developed a Single Page Application (SPA) called Pokemon App. The project utilized React and Redux for the Front-End, while the Back-End was built with Express, Node.js, and PostgreSQL. All the styling was implemented using CSS.
 
-Here are some ideas to get you started:
+Functionality:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Filter**: Implemented a filter option to sort Pokemon by their types. ✔️
+* **Order**: Added functionality to sort Pokemon alphabetically and by strength. ✔️
+* **Search**: Implemented a search feature that allows users to find Pokemon by their names. ✔️
+* **Pokemon Detail**: Displayed detailed information about each Pokemon. ✔️
+* **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
+
+# Language and tools:
+*JavaScript
+*React
+*Redux
+*HTML
+*Css
+*Nodejs
+*Express
+*Sequelize
+
+# Contact me:
+* gonzaloberdazaiz@gmail.com 📧
+* +549 2213642526 📲
