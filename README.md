@@ -3,7 +3,7 @@ I'm a Full Stack Developer student and an Industrial Engineer
 
 
 -------------------
-###  Projects:
+###  Projects
 
 #### Pokemon App (Single Page Application)
 I developed a Single Page Application (SPA) called Pokemon App. The project utilized React and Redux for the Front-End, while the Back-End was built with Express, Node.js, and PostgreSQL. All the styling was implemented using CSS.
@@ -18,8 +18,7 @@ Functionality:
 <br />
 
 -------------------
-###  Languages and Tools:
--------------------
+###  Languages and Tools
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> 
@@ -53,7 +52,6 @@ Functionality:
 
 
 -------------------
-###  Contact:
--------------------
+###  Contact
 * gonzaloberdazaiz@gmail.com 📧
 * +549 2213642526 📲
