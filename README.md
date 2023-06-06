@@ -1,7 +1,6 @@
 ## Hi! I´m Gonzalo
 I'm a Full Stack Developer student and an Industrial Engineer
 
-<br />
 
 ## Projects:
 #### Pokemon App (Single Page Application)
@@ -14,8 +13,11 @@ Functionality:
 * **Pokemon Detail**: Displayed detailed information about each Pokemon. ✔️
 * **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
 
+<br />
 
-## Language and tools:
+-------------------
+##  Languages and Tools:
+-------------------
 * JavaScript
 * React
 * Redux
