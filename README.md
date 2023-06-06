@@ -4,6 +4,7 @@ I'm a Full Stack Developer student and an Industrial Engineer
 ### Projects:
 #### Pokemon App (Single Page Application)
 I developed a Single Page Application (SPA) called Pokemon App. The project utilized React and Redux for the Front-End, while the Back-End was built with Express, Node.js, and PostgreSQL. All the styling was implemented using CSS.
+
 Functionality:
 * **Filter**: Implemented a filter option to sort Pokemon by their types. ✔️
 * **Order**: Added functionality to sort Pokemon alphabetically and by strength. ✔️
