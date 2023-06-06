@@ -13,14 +13,14 @@ Functionality:
 * **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
 
 ### Language and tools:
-*JavaScript
-*React
-*Redux
-*HTML
-*Css
-*Nodejs
-*Express
-*Sequelize
+* JavaScript
+* React
+* Redux
+* HTML
+* Css
+* Nodejs
+* Express
+* Sequelize
 
 ### Contact me:
 * gonzaloberdazaiz@gmail.com 📧
