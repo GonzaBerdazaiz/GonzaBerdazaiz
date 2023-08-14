@@ -1,5 +1,5 @@
 <h1>Hi! I'm Gonzalo</h1>
-<h4 align="center">A Full Stack Developer and an Industrial Engineer from Argentina</h4>
+<p>A Full Stack Developer and an Industrial Engineer from Argentina</p>
 <br />
 
 
