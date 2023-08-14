@@ -12,17 +12,17 @@ https://github.com//sofiaparraweb ,
 https://github.com//fedezelarayan , 
 https://github.com//PedroFedeCasillas , 
 <br />
-(https://bookverse-client.vercel.app/)
+#### Website https://bookverse-client.vercel.app/
 
 <br />
 
 #### La Gruta 
 Claborative work with the following individuals on the development and design of an application for the community dining hall 'La Gruta' using a tech stack including JavaScript, Node.js, PostgreSQL, Express.js, Sequelize, MercadoPago, React, Redux, Material UI, CSS, HTML, Auth0, Cloudinary, and Nodemailer:
-https://github.com//GianPolastri
-https://github.com//sofiaparraweb
-https://github.com//fedezelarayan
-https://github.com//PedroFedeCasillas
-https://github.com//Tobami94
+https://github.com//GianPolastri , 
+https://github.com//sofiaparraweb , 
+https://github.com//fedezelarayan , 
+https://github.com//PedroFedeCasillas , 
+https://github.com//Tobami94 , 
 
 Feel free to contact any of these collaborators for more information about their contributions to the project.
 
