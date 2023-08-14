@@ -57,4 +57,3 @@ Functionality:
 * **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
 
 https://github.com/GonzaBerdazaiz/PI-Pokemon
-<br />
