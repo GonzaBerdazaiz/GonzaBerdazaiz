@@ -1,5 +1,5 @@
 ## Hi! I´m Gonzalo
-I'm a Full Stack Developer student and an Industrial Engineer
+I'm a Full Stack Developer and an Industrial Engineer from Argentina
 
 
 -------------------
@@ -7,7 +7,6 @@ I'm a Full Stack Developer student and an Industrial Engineer
 
 #### Pokemon App (Single Page Application)
 I developed a Single Page Application (SPA) called Pokemon App. The project utilized React and Redux for the Front-End, while the Back-End was built with Express, Node.js, and PostgreSQL. All the styling was implemented using CSS.
-
 Functionality:
 * **Filter**: Implemented a filter option to sort Pokemon by their types. ✔️
 * **Order**: Added functionality to sort Pokemon alphabetically and by strength. ✔️
@@ -17,6 +16,28 @@ Functionality:
 
 <br />
 
+#### La Gruta 
+Claborative work with the following individuals on the development and design of an application for the community dining hall 'La Gruta' using a tech stack including JavaScript, Node.js, PostgreSQL, Express.js, Sequelize, MercadoPago, React, Redux, Material UI, CSS, HTML, Auth0, Cloudinary, and Nodemailer:
+https://github.com/GianPolastri
+https://github.com/sofiaparraweb
+https://github.com/fedezelarayan
+https://github.com/PedroFedeCasillas
+https://github.com/Tobami94
+
+Feel free to contact any of these collaborators for more information about their contributions to the project.
+
+<br />
+
+#### Bookverse 
+Claborative work with the following individuals on the development and design of an application for the community dining hall 'La Gruta' using a tech stack including JavaScript, Node.js, PostgreSQL, Express.js, Sequelize, Stripe, React, Redux, Material UI, CSS, HTML, Auth0, Cloudinary, and Nodemailer:
+https://github.com/GianPolastri
+https://github.com/sofiaparraweb
+https://github.com/fedezelarayan
+https://github.com/PedroFedeCasillas
+
+##(https://bookverse-client.vercel.app/)
+
+<br />
 -------------------
 ###  Languages and Tools
 <p align="center"> 
