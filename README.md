@@ -12,7 +12,7 @@ https://github.com//sofiaparraweb ,
 https://github.com//fedezelarayan , 
 https://github.com//PedroFedeCasillas , 
 <br />
-#### Website (https://bookverse-client.vercel.app/)
+#### Website [(https://bookverse-client.vercel.app/)]
 
 <br />
 
