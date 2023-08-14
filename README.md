@@ -7,12 +7,9 @@ I'm a Full Stack Developer and an Industrial Engineer from Argentina
 
 #### Bookverse 
 Claborative work with the following individuals on the development and design of an application for the community dining hall 'La Gruta' using a tech stack including JavaScript, Node.js, PostgreSQL, Express.js, Sequelize, Stripe, React, Redux, Material UI, CSS, HTML, Auth0, Cloudinary, and Nodemailer:
-https://github.com//GianPolastri , 
-https://github.com//sofiaparraweb , 
-https://github.com//fedezelarayan , 
-https://github.com//PedroFedeCasillas , 
+@GianPolastri, @sofiaparraweb, @fedezelarayan, @PedroFedeCasillas
 <br />
-#### Website [https://bookverse-client.vercel.app/]
+#### Website [(https://bookverse-client.vercel.app/)]
 
 <br />
 
@@ -37,6 +34,7 @@ Functionality:
 * **Pokemon Detail**: Displayed detailed information about each Pokemon. ✔️
 * **Create New Pokemon**: Enabled the creation of new Pokemon within the application. ✔️
 
+https://github.com/GonzaBerdazaiz/PI-Pokemon
 <br />
 
 -------------------
