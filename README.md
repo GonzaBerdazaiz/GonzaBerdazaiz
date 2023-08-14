@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">I'm a Full Stack Developer and an Industrial Engineer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzaberdazaiz&label=Profile%20views&color=0e75b6&style=flat" alt="gonzaberdazaiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzaberdazaiz" alt="gonzaberdazaiz" /></a> </p>
 
 - 🔭 I’m currently working on **La Gruta**
 
