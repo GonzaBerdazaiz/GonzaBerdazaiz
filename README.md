@@ -12,7 +12,7 @@
 <h2>How to reach me</h2>
 📫  gonzaloberdazaiz@gmail.com
 📲 +549 2213642526
-
+<br />
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-berdazaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-berdazaiz/" height="30" width="40" /></a>
