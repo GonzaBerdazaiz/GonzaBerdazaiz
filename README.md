@@ -1,5 +1,4 @@
 <h1>Hi! I'm Gonzalo Berdazaiz</h1>
-<br />
 <h1>About me</h1>
 <p>A Full Stack Developer and an Industrial Engineer from Argentina</p>
 <br />
