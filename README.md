@@ -2,13 +2,10 @@
 
 <h2>About me</h2>
 <p>A Full Stack Developer and an Industrial Engineer from Argentina</p>
-<br />
-
 
 - 🔭 I’m currently working on **La Gruta**
-
 - 🌱 I’m currently learning **Python**
-
+<br />
 <h2>How to reach me</h2>
 📫  gonzaloberdazaiz@gmail.com
 📲 +549 2213642526
