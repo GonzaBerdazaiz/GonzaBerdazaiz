@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzaberdazaiz&" alt="gonzaberdazaiz" /></p>
 
 -------------------
-###  Projects
+<h2>Projects</h2>
 
 #### Bookverse 
 Claborative work with the following individuals on the development and design of an application for the community dining hall 'La Gruta' using a tech stack including JavaScript, Node.js, PostgreSQL, Express.js, Sequelize, Stripe, React, Redux, Material UI, CSS, HTML, Auth0, Cloudinary, and Nodemailer: 
