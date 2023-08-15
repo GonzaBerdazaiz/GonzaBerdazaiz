@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning **Python**
 <br />
 <h2>How to reach and connect with me</h2>
-- 📫  gonzaloberdazaiz@gmail.com
-- 📲 +549 2213642526
-- <p align="left">
+<p align="left"> 📫  gonzaloberdazaiz@gmail.com </p>
+<p align="left"> 📲 +549 2213642526 </p>
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-berdazaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-berdazaiz/" height="20" width="30" /></a>
 </p>
 <br />
